@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">L11_Piwowarski_62024_Kol2</string>
+    <string name="txtNameap">Antoni Piwowarski\'s app</string>
+    <string name="txtYourNameap">Your Name:</string>
+    <string name="txtYourSurnameap">Your Surname:</string>
+    <string name="txtTownap">Town:</string>
+    <string name="btnSaveap">SAVE TO MEMORY</string>
+    <string name="btnGoToImagesap">GO TO IMAGES</string>
+    <string name="hintYourNameap">your name</string>
+    <string-array name="townsap">
+        <item>Gdańsk</item>
+        <item>Warszawa</item>
+        <item>Poznan</item>
+        <item>Wrocław</item>
+        <item>Kraków</item>
+    </string-array>
+    <string name="hintYourSurnameap">your surname</string>
+    <string name="txtImagetoActivityap">Through image to activity</string>
+    <string name="txtMainap" translatable="false">Main</string>
+    <string name="txtConverterap" translatable="false">Converter</string>
+    <string name="txtMemoryap" translatable="false">Memory</string>
+    <string name="txtTemperatureap">Temperature Converter</string>
+    <string name="txtTempTextap">Temperature:</string>
+    <string name="btnConvertap">CONVERT</string>
+    <string name="txtCelsiusap">Celsius</string>
+    <string name="txtFahrenheitap" translatable="false">Fahrenheit</string>
+    <string name="txtKelvinap" translatable="false">Kelvin</string>
+    <string name="btnGoToMainAcitivityap">TO MAIN ACTIVITY</string>
+    <string-array name="Temperaturetypesap">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+    <string name="txtWorkwithMemoryap">Work with Memory - File System</string>
+    <string name="txtFromMemoryap">From Memory:</string>
+    <string name="txtTown2ap">Town:</string>
+    <string name="hintTownap">town</string>
+</resources>

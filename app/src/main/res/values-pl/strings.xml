@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">L11_Piwowarski_62024_Kol2</string>
+    <string name="txtYourNameap">Twoje Imię:</string>
+    <string name="txtNameap">Aplikacja Antoniego Piwowarskiego</string>
+    <string name="txtYourSurnameap">Twoje Nazwisko:</string>
+    <string name="txtTownap">Miasto:</string>
+    <string name="btnSaveap">ZAPISZ W PAMIĘCI</string>
+    <string name="btnGoToImagesap">IDŹ DO ZDJĘĆ</string>
+    <string name="hintYourNameap">twoje imię</string>
+    <string name="hintYourSurnameap">twoje nazwisko</string>
+    <string name="txtImagetoActivityap">Przez obrazek do aktywności</string>
+    <string name="txtTempTextap">Temperatura:</string>
+    <string name="txtTemperatureap">Konwenter Tempratury</string>
+    <string name="btnConvertap">KONWERTUJ</string>
+    <string name="btnGoToMainAcitivityap">DO GŁÓWNEJ AKTYWNOŚCI</string>
+    <string name="txtCelsiusap">Celsjusz</string>
+    <string name="txtWorkwithMemoryap">Pracuj z Pamięcią - System Plików</string>
+    <string name="txtFromMemoryap">Z Pamięci:</string>
+    <string name="txtTown2ap">Miasto:</string>
+    <string name="hintTownap">miasto</string>
+</resources>
