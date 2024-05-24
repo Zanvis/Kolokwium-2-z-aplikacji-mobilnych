@@ -1,0 +1,5 @@
+![image](https://github.com/Zanvis/Kolokwium-2-z-aplikacji-mobilnych/assets/161169953/e417e377-aa18-499f-80ec-cc3f179a7c1e)
+![image](https://github.com/Zanvis/Kolokwium-2-z-aplikacji-mobilnych/assets/161169953/b0495a2a-9cf0-4587-aea0-4195a9146f10)
+![image](https://github.com/Zanvis/Kolokwium-2-z-aplikacji-mobilnych/assets/161169953/0ea2b623-a1cc-46be-8e1e-e512bd82d596)
+![image](https://github.com/Zanvis/Kolokwium-2-z-aplikacji-mobilnych/assets/161169953/da4d3e77-7e3c-4f93-979c-c81f95817eb7)
+![image](https://github.com/Zanvis/Kolokwium-2-z-aplikacji-mobilnych/assets/161169953/31cc2148-0857-40be-b43c-d782add0e9d6)
